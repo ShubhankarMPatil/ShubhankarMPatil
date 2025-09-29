@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building AI-driven accessibility tools and full-stack web projects (React, PHP, Tailwind CSS).<br>👯 I’m looking to collaborate on open-source projects in machine learning, computer vision, and cloud-based apps.<br>🤝 I’m looking for help with scaling real-time AI models for broader user accessibility.<br>🌱 I’m currently learning the underpinnings of AI and music, Agentic AI and interactive UI animations.<br>💬 Ask me about AI for accessibility, computer vision, and web development.<br>⚡ Fun fact: I once presented an acoustic levitation payload at an international rocketry competition in Brazil 🚀.
+🔭 I’m currently working on building AI-driven accessibility tools and full-stack web projects (React, PHP, Tailwind CSS).<br>👯 I’m looking to collaborate on open-source projects in machine learning, computer vision, and cloud-based apps.<br>🤝 I’m looking for help with scaling real-time AI models for broader user accessibility.<br>🌱 I’m currently learning the underpinnings of AI and music, Agentic AI and interactive UI animations.<br>💬 Ask me about AI for accessibility, robotics, computer vision, and web development.<br>⚡ Fun fact: I once presented an acoustic levitation payload at an international rocketry competition in Brazil 🚀.
 
 
 ## 🌐 Socials:
